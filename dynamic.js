@@ -10,7 +10,7 @@ let arrayOne= [
         "src" : "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9883/1109883-v-fd70e26332d7"
     } ,
     {
-        "src": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6716/1106716-v-a0a306c60795"
+        "src": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6184/1116184-v-14e64b70c4b6"
     }  ,
     {
         "src":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1841/1101841-v-72cc4409eaed"
@@ -43,7 +43,7 @@ let arrayOne= [
         "src":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/8864/1068864-v-d8c87396967f"
     },
     {
-        "src":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/3207/1063207-v-1b046084c692"
+        "src":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1919/1111919-v-f73a6f4d8b98"
     },
     {
         "src":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/473/1080473-v-d97e637cb29d"
