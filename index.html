@@ -3,8 +3,11 @@
 <head>
   <title>Hotstar clone</title>
   <link rel="stylesheet" href="Hotstar.css">
+  <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 <body>
+  
     <nav class="navebar">
         <div class="dropdown">
             <button class="dropbtn">
@@ -73,7 +76,7 @@
                 </div>
   
             </div>
-            <a style="font-size: medium;" href="#">Disney+</a>
+            <!--<a style="font-size: medium;" href="#">Disney+</a>-->
   
             <a href="#"><b style="color:rgb(245, 184, 52);">KIDS</b></a>
   
@@ -160,10 +163,19 @@
       setTimeout(showSlides, 4000); 
     }
     </script>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<script type="text/javascript">
+    $('.main-carousel').flickity({
+      cellalign:'left',
+      wrapAround:true,
+      freeScroll:true
+    });
+    </script>
 
 
     <div class="latest">
       <h3>Latest & Trending</h3>
+    
     </div>
     <div class="grid1"></div>
     <div class="recommended">
